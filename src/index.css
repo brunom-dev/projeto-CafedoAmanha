@@ -16,23 +16,23 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
-    overflow-x: hidden; /* Prevenir overflow lateral */
+    overflow-x: hidden; 
   }
   
-  /* Estilo global do projeto */
+  
   
   body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5; /* Cor de fundo global */
+    background-color: #f5f5f5; 
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Garante que o body ocupe toda a altura da tela */
+    min-height: 100vh; 
   }
   
   #root {
-    flex: 1; /* Faz o conteúdo ocupar o espaço disponível */
+    flex: 1; 
     display: flex;
     flex-direction: column;
   }
